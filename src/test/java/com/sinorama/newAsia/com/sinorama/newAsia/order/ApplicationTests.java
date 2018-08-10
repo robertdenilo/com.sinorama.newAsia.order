@@ -13,4 +13,8 @@ public class ApplicationTests {
 	public void contextLoads() {
 	}
 
+	public void sayHello(){
+		System.out.println("dafsdsaf");
+	}
+
 }
