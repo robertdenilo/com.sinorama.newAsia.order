@@ -10,4 +10,4 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 }
-puligc class CC{}
+public class CC{}
