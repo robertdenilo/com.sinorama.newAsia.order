@@ -11,3 +11,5 @@ public class Application {
 	}
 }
 class BB{}
+public class CC{}
+
